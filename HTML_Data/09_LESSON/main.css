@@ -1,0 +1,40 @@
+html{
+    font-size: 22px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    text-align: center;
+    padding: .05em;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+body{
+    background-color: #333;
+    color: whitesmoke;
+}
+
+a{
+    color: aliceblue;
+}
+
+a:visited{
+    color: lightgray;
+}
+
+a:hover, a:active{
+    color: #eee;
+}
+table, tr, th, td, caption{
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+legend{
+    text-align: center;
+}
