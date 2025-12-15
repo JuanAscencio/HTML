@@ -17,7 +17,7 @@
 1. 07_Lesson: Semantic tags
 1. 08_Lesson: Create tables
 1. 09_Lesson: Forms & Inputs
-1. 09_Lesson: HTML Project
+1. 10_Lesson: HTML Project
 
 ---
 
