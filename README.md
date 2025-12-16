@@ -9,7 +9,7 @@
 ### Some things you will find in HTML_DATA
 
 1. 01_Lesson: HTML file creation
-1. 02_Lesson: Head Element
+1. 02_Lesson: Head Elements
 1. 03_Lesson: Text basics
 1. 04_Lesson: List types
 1. 05_Lesson: Add links
