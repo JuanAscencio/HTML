@@ -1,4 +1,4 @@
-# HTML LEARNING PATH
+# HTML LEARNING
 
 ---
 
@@ -9,7 +9,7 @@
 ### Some things you will find in HTML_DATA
 
 1. 01_Lesson: HTML file creation
-1. 02_Lesson: Head Element
+1. 02_Lesson: Head Elements
 1. 03_Lesson: Text basics
 1. 04_Lesson: List types
 1. 05_Lesson: Add links
@@ -17,6 +17,7 @@
 1. 07_Lesson: Semantic tags
 1. 08_Lesson: Create tables
 1. 09_Lesson: Forms & Inputs
+1. 10_Lesson: HTML Project
 
 ---
 
